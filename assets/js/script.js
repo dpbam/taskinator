@@ -3,7 +3,7 @@
 var buttonEl = document.querySelector("#save-task");
 var tasksToDoEl = document.querySelector("#tasks-to-do");
 // console.log(tasksToDoEl);
-console.log(buttonEl);
+// console.log(buttonEl);
 
 var createTaskHandler = function() {
     var listItemEl = document.createElement("li");
